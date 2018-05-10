@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="0.0999921in" height="0.0999921in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 100 100"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#000066;stroke-width:10.4173}
+    .str1 {stroke:#000066;stroke-width:1.38976}
+    .fil0 {fill:none}
+    .fil1 {fill:#000066}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2366381701696">
+   <polyline class="fil0 str0" points="3,22 27,50 66,49 "/>
+   <polygon class="fil1 str1" points="47,74 66,49 47,25 97,49 "/>
+   <line class="fil0 str0" x1="3" y1="78" x2="27" y2= "50" />
+  </g>
+ </g>
+</svg>

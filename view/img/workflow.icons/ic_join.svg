@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="0.137795in" height="0.0984252in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 138 98"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#000066;stroke-width:4.15748}
+    .str1 {stroke:#000066;stroke-width:1.38583}
+    .fil0 {fill:none}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2213334605120">
+   <g id="_2049485421744">
+    <circle class="fil0 str0" cx="48" cy="49" r="40"/>
+    <circle class="fil0 str0" cx="90" cy="49" r="40"/>
+    <line class="fil0 str1" x1="80" y1="22" x2="53" y2= "31" />
+    <line class="fil0 str1" x1="82" y1="30" x2="52" y2= "41" />
+    <line class="fil0 str1" x1="87" y1="38" x2="52" y2= "52" />
+    <line class="fil0 str1" x1="88" y1="48" x2="53" y2= "60" />
+    <line class="fil0 str1" x1="86" y1="58" x2="54" y2= "70" />
+    <line class="fil0 str1" x1="84" y1="69" x2="60" y2= "78" />
+   </g>
+  </g>
+ </g>
+</svg>
